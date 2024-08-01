@@ -10849,6 +10849,11 @@ CVPR 2021. [[Paper](https://arxiv.org/abs/2103.01458)] [[Github](https://github.
 
 ### Adversarial Attack
 
+**Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model** \
+*Decheng Liu, Xijun Wang, Chunlei Peng, Nannan Wang, Ruimin Hu1, Xinbo Gao* \
+AAAI 2024. [[Paper](https://arxiv.org/abs/2312.11285v2)] \
+18 Dec 2023
+
 **Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models** \
 *Minxing Zhang, Ning Yu, Rui Wen, Michael Backes, Yang Zhang* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2310.19410)] \
