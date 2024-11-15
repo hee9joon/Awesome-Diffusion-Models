@@ -50,6 +50,11 @@ Please refer to [this page](https://diff-usion.github.io/Awesome-Diffusion-Model
 # Resources
 ## Introductory Posts
 
+**Diffusion models** \
+*Laura Sánchez & Julio A. Soto (@julioasotodv)* \
+[[Website](https://github.com/julioasotodv/ie-c4-466671-diffusion-models)] \
+5 Nov 2024
+
 **:fast_forward: DiffusionFastForward: 01-Diffusion-Theory** \
 *Mikolaj Czerkawski (@mikonvergence)* \
 [[Website](https://github.com/mikonvergence/DiffusionFastForward/blob/master/notes/01-Diffusion-Theory.md)] \
