@@ -351,6 +351,11 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2209.00796)] \
 ## Vision
 ### Generation
 
+**Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model** 、
+*Min Zhao, Hongzhou Zhu, Chendong Xiang, Kaiwen Zheng, Chongxuan Li, Jun Zhu*\
+NeurIPS 2024. [[Paper](https://arxiv.org/abs/2406.15735)] \
+22 Jun 2024
+
 **DiffEnc: Variational Diffusion with a Learned Encoder** \
 *Beatrix M. G. Nielsen, Anders Christensen, Andrea Dittadi, Ole Winther* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2310.19789)] \
