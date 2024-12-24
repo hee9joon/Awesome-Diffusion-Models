@@ -351,6 +351,11 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2209.00796)] \
 ## Vision
 ### Generation
 
+**StableV2V: Stablizing Shape Consistency in Video-to-Video Editing** \
+*Chang Liu, Rui Li, Kaidong Zhang, Yunwei Lan, Dong Liu* \
+arXiv 2024. [[Paper](https://arxiv.org/abs/2411.11045)] [[GitHub](https://github.com/AlonzoLeeeooo/StableV2V)]  \
+17 Nov 2024
+
 **DiffEnc: Variational Diffusion with a Learned Encoder** \
 *Beatrix M. G. Nielsen, Anders Christensen, Andrea Dittadi, Ole Winther* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2310.19789)] \
